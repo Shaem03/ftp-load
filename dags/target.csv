@@ -1,0 +1,1044 @@
+id,name,organism
+11291,Anandamide amidohydrolase,Homo sapiens
+11297,Histamine H2 receptor,Mus musculus
+11318,"IgE Fc receptor, alpha-subunit",Homo sapiens
+10978,Lysyl oxidase,Homo sapiens
+11691,Tyrosine-protein kinase BLK,Homo sapiens
+12396,Dipeptidyl peptidase I,Homo sapiens
+12452,Mannosidase 2 alpha 1,Rattus norvegicus
+11572,Vitamin D-binding protein,Homo sapiens
+11603,"Fructose-1,6-bisphosphatase",Sus scrofa
+11619,Puromycin-sensitive aminopeptidase,Homo sapiens
+11627,Acyl coenzyme A:cholesterol acyltransferase,Homo sapiens
+11633,Gamma-amino-N-butyrate transaminase,Sus scrofa
+12014,Caspase-9,Homo sapiens
+12023,Sphingosine 1-phosphate receptor Edg-8,Homo sapiens
+11447,Sorbitol dehydrogenase,Homo sapiens
+12261,c-Jun N-terminal kinase 1,Homo sapiens
+13079,Melanocortin receptor 2,Mus musculus
+12731,Lysosomal phospholipase A1,Rattus norvegicus
+12755,Dopamine D5 receptor,Rattus norvegicus
+12946,Cyclin-dependent kinase 4,Homo sapiens
+11757,Glyceraldehyde-3-phosphate dehydrogenase liver,Homo sapiens
+12862,ADAMTS5,Homo sapiens
+12883,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,Homo sapiens
+12887,Beta-2 adrenergic receptor,Canis lupus familiaris
+100817,G protein-coupled receptor 44,Mus musculus
+12090,Dual-specificity tyrosine-phosphorylation regulated kinase 1A,Homo sapiens
+12106,NADP-dependent malic enzyme,Rattus norvegicus
+12136,Lysozyme C,Rattus norvegicus
+12146,Isoprenylcysteine carboxyl methyltransferase,Rattus norvegicus
+12168,Epoxide hydrolase 1,Rattus norvegicus
+12178,Glycerol kinase,Homo sapiens
+12251,Phosphatidylserine-specific phospholipase A1,Rattus norvegicus
+12363,Angiotensin-converting enzyme-related carboxypeptidase,Rattus norvegicus
+12609,L-xylulose reductase,Homo sapiens
+12616,Neutral amino acid transporter A,Homo sapiens
+12861,ADAMTS4,Homo sapiens
+13005,Kallikrein 1,Homo sapiens
+12131,Renin,Rattus norvegicus
+11060,Carbonic anhydrase VII,Homo sapiens
+10184,Neurokinin 2 receptor,Homo sapiens
+10094,Dihydrofolate reductase,Candida albicans
+12229,Phenylethanolamine N-methyltransferase,Bos taurus
+12474,Alpha-1b adrenergic receptor,Rattus norvegicus
+10131,Caspase-3,Homo sapiens
+10331,Lysosomal Pro-X carboxypeptidase,Homo sapiens
+12536,MAP kinase p38 alpha,Mus musculus
+11682,Glycine transporter 1,Homo sapiens
+12891,Cytochrome P450 7A1,Rattus norvegicus
+12718,Serine/threonine-protein kinase Sgk1,Homo sapiens
+12720,Vasopressin V2 receptor,Bos taurus
+12724,Ribosomal protein S6 kinase alpha 3,Homo sapiens
+12729,Estrogen sulfotransferase,Homo sapiens
+12735,Phosphorylase kinase gamma subunit 2,Homo sapiens
+12743,Alpha-2a adrenergic receptor,Sus scrofa
+12763,Superoxide dismutase,Homo sapiens
+10150,Hypoxanthine-guanine phosphoribosyltransferase,Homo sapiens
+10193,Carbonic anhydrase I,Homo sapiens
+10245,Thymidylate kinase,Mycobacterium tuberculosis
+10358,Dihydrofolate reductase,Rattus norvegicus
+10444,Trypsin,Sus scrofa
+10453,Dopamine D1 receptor,Carassius auratus
+11894,Norepinephrine transporter,Mus musculus
+12071,Cyclin-dependent kinase 1,Homo sapiens
+11518,Protein-tyrosine phosphatase 1B,Rattus norvegicus
+11678,Cyclin-dependent kinase 2,Homo sapiens
+11756,GABA receptor rho-2 subunit,Homo sapiens
+11922,Dual specificity phosphatase Cdc25C,Homo sapiens
+12395,Dihydroorotate dehydrogenase,Rattus norvegicus
+10328,11-beta-hydroxysteroid dehydrogenase 1,Rattus norvegicus
+10206,DNA polymerase beta,Homo sapiens
+10341,"AMP-activated protein kinase, gamma-1 subunit",Homo sapiens
+10348,Purine-nucleoside phosphorylase,Rattus norvegicus
+10607,Acetyl-CoA carboxylase 1,Rattus norvegicus
+11186,Cytochrome P450 2C18,Homo sapiens
+11727,Epoxide hydratase,Homo sapiens
+10520,G2/mitotic-specific cyclin B1,Homo sapiens
+10547,C-C chemokine receptor type 1,Homo sapiens
+10579,C-C chemokine receptor type 4,Homo sapiens
+12954,Carbonic anhydrase-related protein 2,Homo sapiens
+10503,Corticosteroid binding globulin,Homo sapiens
+12709,G1/S-specific cyclin D3,Homo sapiens
+10278,Glyoxalase I,Homo sapiens
+10262,Casein kinase I gamma 1,Homo sapiens
+10250,"Myosin light chain kinase, smooth muscle",Homo sapiens
+10257,FK506-binding protein 1B,Homo sapiens
+10695,Serine/threonine-protein kinase AKT2,Homo sapiens
+10703,Aminopeptidase B,Homo sapiens
+10773,Interleukin-8 receptor B,Homo sapiens
+10567,Myeloperoxidase,Homo sapiens
+10568,Myeloperoxidase,Mus musculus
+10087,Deoxycytidine kinase,Homo sapiens
+10088,Deoxycytidylate deaminase,Caenorhabditis elegans
+10230,Aminopeptidase B,Rattus norvegicus
+10662,"AMP-activated protein kinase, gamma-2 subunit",Homo sapiens
+10956,Luteinizing hormone/Choriogonadotropin receptor,Rattus norvegicus
+10957,"Arachidonate 15-lipoxygenase, type II",Homo sapiens
+10960,Peroxisome proliferator-activated receptor delta,Mus musculus
+10961,Peroxisome proliferator-activated receptor gamma,Mus musculus
+10039,Interleukin-2,Mus musculus
+10041,Thyrotropin-releasing hormone receptor,Mus musculus
+10051,Death-associated protein kinase 3,Homo sapiens
+10057,Cannabinoid CB2 receptor,Rattus norvegicus
+11191,GABA receptor alpha-4 subunit,Homo sapiens
+10320,Methionine aminopeptidase 1,Homo sapiens
+10381,Cytochrome P450 2D1,Rattus norvegicus
+10706,Salivary alpha-amylase,Homo sapiens
+10296,"N-acetyllactosaminide alpha-1,3-galactosyltransferase",Mus musculus
+10297,Tyrosine-protein kinase LCK,Mus musculus
+10307,Cytochrome P450 2D2,Rattus norvegicus
+10639,Acetylcholine receptor protein epsilon chain,Homo sapiens
+10656,Beta amyloid A4 protein,Homo sapiens
+10614,Prostanoid EP2 receptor,Mus musculus
+10616,Prostanoid EP4 receptor,Mus musculus
+10621,Serotonin 2a (5-HT2a) receptor,Sus scrofa
+10635,Neuronal acetylcholine receptor protein alpha-7 subunit,Homo sapiens
+10970,CaM kinase I alpha,Homo sapiens
+10971,CaM kinase IV,Homo sapiens
+10538,P2X purinoceptor 5,Rattus norvegicus
+10540,P2X purinoceptor 7,Rattus norvegicus
+10545,Purinergic receptor P2Y1,Rattus norvegicus
+10550,PI3-kinase p110-alpha subunit,Bos taurus
+12702,Thiopurine S-methyltransferase,Homo sapiens
+10402,Bradykinin B2 receptor,Rattus norvegicus
+10405,Prostaglandin E synthase,Bos taurus
+10427,PI3-kinase p85-alpha subunit,Homo sapiens
+10480,Cyclin-dependent kinase 6,Homo sapiens
+10486,Neurotensin receptor 2,Homo sapiens
+10489,Calcium sensing receptor,Rattus norvegicus
+10493,Cathepsin F,Homo sapiens
+10732,AICAR transformylase,Homo sapiens
+10734,Neutral alpha-glucosidase AB,Homo sapiens
+10675,Beta-galactosidase,Homo sapiens
+10693,Alpha-galactosidase A,Homo sapiens
+10674,Beta secretase 2,Homo sapiens
+10536,P2X purinoceptor 1,Rattus norvegicus
+10537,P2X purinoceptor 2,Homo sapiens
+10946,Multidrug resistance-associated protein 1,Mus musculus
+10612,3-phosphoinositide dependent protein kinase-1,Homo sapiens
+11173,Glucose transporter,Homo sapiens
+10845,Phospholipase D1,Homo sapiens
+19688,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,Escherichia coli K-12
+11629,Casein kinase I gamma 2,Homo sapiens
+11321,Heme oxygenase 2,Homo sapiens
+12169,Neuropeptide Y receptor type 5,Rattus norvegicus
+19610,Penicillin-binding protein 4,Staphylococcus aureus
+10926,Carboxypeptidase B,Homo sapiens
+10792,Thymidylate synthase,Escherichia coli K-12
+12283,Histone deacetylase 5,Homo sapiens
+12476,Metabotropic glutamate receptor 5,Rattus norvegicus
+11442,Liver glycogen phosphorylase,Homo sapiens
+11452,Microsomal triglyceride transfer protein large subunit,Homo sapiens
+11458,Deoxycytidine kinase,Mus musculus
+12502,P-glycoprotein 3,Mus musculus
+10095,Dihydrofolate reductase,Gallus gallus
+10003,Cathepsin D,Homo sapiens
+10007,Cyclin A2,Homo sapiens
+10023,Neuronal acetylcholine receptor protein alpha-2 subunit,Rattus norvegicus
+10024,Neuronal acetylcholine receptor protein alpha-9 subunit,Rattus norvegicus
+11634,Aminopeptidase N,Sus scrofa
+219,Muscarinic acetylcholine receptor M3,Homo sapiens
+62,DNA topoisomerase I,Homo sapiens
+187,Vascular endothelial growth factor A,Homo sapiens
+11758,Glucagon-like peptide 1 receptor,Homo sapiens
+247,Endothelin receptor ET-B,Homo sapiens
+79,Steroid 5-alpha-reductase 1,Homo sapiens
+112,Vasopressin V2 receptor,Homo sapiens
+132,Amiloride-sensitive sodium channel alpha-subunit,Homo sapiens
+11265,Somatostatin receptor 5,Homo sapiens
+160,Parathyroid hormone receptor,Homo sapiens
+179,Cysteinyl leukotriene receptor 1,Homo sapiens
+124,Corticotropin releasing factor receptor 1,Homo sapiens
+11,Thrombin,Homo sapiens
+12,Plasminogen,Homo sapiens
+15,Carbonic anhydrase II,Homo sapiens
+42,Trypsin I,Homo sapiens
+190,Leukocyte adhesion glycoprotein LFA-1 alpha,Homo sapiens
+117,Somatostatin receptor 2,Homo sapiens
+279,Serotonin 1f (5-HT1f) receptor,Homo sapiens
+63,DNA topoisomerase II alpha,Homo sapiens
+29,Sodium/potassium-transporting ATPase alpha-1 chain,Homo sapiens
+69,Angiotensin-converting enzyme,Homo sapiens
+7,Dihydrofolate reductase,Escherichia coli
+260,Thyrotropin-releasing hormone receptor,Homo sapiens
+261,Prostanoid EP1 receptor,Homo sapiens
+12697,Histone deacetylase 1,Homo sapiens
+77,Pancreatic lipase,Homo sapiens
+11522,Cholecystokinin B receptor,Homo sapiens
+18,Penicillin-binding protein 1A,Escherichia coli K-12
+212,Penicillin-binding protein 1B,Escherichia coli K-12
+214,Muscarinic acetylcholine receptor M4,Homo sapiens
+84,Inosine-5'-monophosphate dehydrogenase 1,Homo sapiens
+188,Receptor protein-tyrosine kinase erbB-2,Homo sapiens
+127,Histamine H1 receptor,Homo sapiens
+185,TNF-alpha,Homo sapiens
+37,DNA gyrase subunit B,Escherichia coli
+3,Phosphodiesterase 5A,Homo sapiens
+54,DNA polymerase alpha subunit,Homo sapiens
+11208,Histone deacetylase 3,Homo sapiens
+251,Platelet activating factor receptor,Homo sapiens
+98,Ribonucleoside-diphosphate reductase M1 chain,Homo sapiens
+72,Dopamine D2 receptor,Homo sapiens
+115,Type-1 angiotensin II receptor,Homo sapiens
+227,Serotonin 2b (5-HT2b) receptor,Homo sapiens
+248,Thromboxane-A synthase,Homo sapiens
+264,Trypanothione reductase,Trypanosoma brucei brucei
+40,Thyroid peroxidase,Homo sapiens
+46,Penicillin-binding protein 2,Escherichia coli K-12
+11755,Tyrosine-protein kinase FYN,Homo sapiens
+12840,Macrophage colony stimulating factor receptor,Homo sapiens
+125,Alpha-1a adrenergic receptor,Homo sapiens
+9,Epidermal growth factor receptor erbB1,Homo sapiens
+130,Dopamine D3 receptor,Homo sapiens
+131,Sodium channel protein type I alpha subunit,Homo sapiens
+17045,Cytochrome P450 3A4,Homo sapiens
+11881,GABA receptor beta-3 subunit,Homo sapiens
+33,Tubulin beta-2 chain,Homo sapiens
+145,Enoyl-[acyl-carrier-protein] reductase,Mycobacterium tuberculosis
+220,Dopamine D5 receptor,Homo sapiens
+10,DNA-directed RNA polymerase beta chain,Escherichia coli K-12
+10183,Somatostatin receptor 4,Homo sapiens
+96,Cyclooxygenase-1,Homo sapiens
+118,Gonadotropin-releasing hormone receptor,Homo sapiens
+120,Steroid 5-alpha-reductase 2,Homo sapiens
+110,Enoyl-[acyl-carrier-protein] reductase,Escherichia coli K-12
+53,DNA gyrase subunit A,Escherichia coli K-12
+4,Voltage-gated T-type calcium channel alpha-1H subunit,Homo sapiens
+55,Arachidonate 5-lipoxygenase,Homo sapiens
+59,Thyroid hormone receptor alpha,Homo sapiens
+61,Muscarinic acetylcholine receptor M1,Homo sapiens
+8,Tyrosine-protein kinase ABL,Homo sapiens
+90,Dopamine D4 receptor,Homo sapiens
+265,Thrombopoietin receptor,Homo sapiens
+11307,Histone deacetylase 6,Homo sapiens
+12930,Voltage-gated potassium channel subunit Kv7.1,Homo sapiens
+52,Alpha-2a adrenergic receptor,Homo sapiens
+10979,Vascular endothelial growth factor receptor 1,Homo sapiens
+277,Retinoid X receptor beta,Homo sapiens
+278,Adenosine A2b receptor,Homo sapiens
+50,Beta-1 adrenergic receptor,Homo sapiens
+11272,Sigma opioid receptor,Homo sapiens
+11399,Tissue-type plasminogen activator,Homo sapiens
+282,Calcium sensing receptor,Homo sapiens
+142,Prostanoid EP2 receptor,Homo sapiens
+10670,Neuronal acetylcholine receptor protein alpha-4 subunit,Homo sapiens
+122,Squalene monooxygenase,Saccharomyces cerevisiae S288c
+134,Vasopressin V1a receptor,Homo sapiens
+184,Glutamate carboxypeptidase II,Homo sapiens
+317,Topoisomerase IV subunit A,Escherichia coli K-12
+319,Squalene monooxygenase,Candida albicans
+106,Serotonin 1b (5-HT1b) receptor,Homo sapiens
+144,Serotonin 3a (5-HT3a) receptor,Homo sapiens
+242,Aldose reductase,Homo sapiens
+10472,Cholecystokinin A receptor,Homo sapiens
+80,FK506-binding protein 1A,Homo sapiens
+222,Glutamate [NMDA] receptor subunit epsilon 2,Homo sapiens
+10904,Serine/threonine-protein kinase RAF,Homo sapiens
+243,Aminopeptidase N,Homo sapiens
+14,Adenosine deaminase,Homo sapiens
+283,Succinate semialdehyde dehydrogenase,Homo sapiens
+121,Serotonin transporter,Homo sapiens
+197,Platelet-derived growth factor receptor beta,Homo sapiens
+10532,Butyrylcholinesterase,Homo sapiens
+12046,Tubulin beta-1 chain,Homo sapiens
+12786,Somatostatin receptor 1,Homo sapiens
+12376,Glutamate receptor ionotropic kainate 1,Homo sapiens
+103,Alpha-1d adrenergic receptor,Homo sapiens
+249,Endothelin receptor ET-A,Homo sapiens
+150,Voltage-gated calcium channel alpha2/delta subunit 1,Homo sapiens
+148,Vasopressin V1b receptor,Homo sapiens
+311,Histidine-rich protein,Plasmodium falciparum
+133,Peroxisome proliferator-activated receptor gamma,Homo sapiens
+136,Delta opioid receptor,Homo sapiens
+147,Secretin receptor,Homo sapiens
+163,Peroxisome proliferator-activated receptor alpha,Homo sapiens
+172,Thioredoxin reductase 1,Homo sapiens
+149,Xanthine dehydrogenase,Homo sapiens
+224,Vitamin k epoxide reductase complex subunit 1 isoform 1,Homo sapiens
+30,Aldehyde dehydrogenase,Homo sapiens
+238,Stem cell growth factor receptor,Homo sapiens
+10580,C-C chemokine receptor type 5,Homo sapiens
+128,Alpha-1b adrenergic receptor,Homo sapiens
+70,Dihydrofolate reductase,Plasmodium falciparum K1
+169,Voltage-gated L-type calcium channel alpha-1C subunit,Homo sapiens
+102,Histamine H2 receptor,Homo sapiens
+216,Alpha-2b adrenergic receptor,Homo sapiens
+11140,Dipeptidyl peptidase IV,Homo sapiens
+51,Serotonin 1a (5-HT1a) receptor,Homo sapiens
+236,Neprilysin,Homo sapiens
+11084,Melatonin receptor 1A,Homo sapiens
+271,Thyroid hormone receptor beta-1,Homo sapiens
+180,Cyclophilin A,Homo sapiens
+16,Antithrombin-III,Homo sapiens
+86,Monoamine oxidase A,Homo sapiens
+280,Adenosine A3 receptor,Homo sapiens
+28,Thymidylate synthase,Homo sapiens
+11257,Ribonucleoside-diphosphate reductase M2 chain,Homo sapiens
+11752,Vascular endothelial growth factor receptor 3,Homo sapiens
+45,D-alanylalanine synthetase,Escherichia coli K-12
+234,Insulin-like growth factor I receptor,Homo sapiens
+74,GABA receptor alpha-1 subunit,Homo sapiens
+78,Thyroid stimulating hormone receptor,Homo sapiens
+11153,Voltage-gated potassium channel subunit Kv4.3,Homo sapiens
+157,Dihydroorotate dehydrogenase,Homo sapiens
+38,Epoxide hydrolase 1,Homo sapiens
+39,Tyrosine 3-hydroxylase,Homo sapiens
+2,Sulfonylurea receptor 2,Homo sapiens
+165,HERG,Homo sapiens
+166,Glutamate [NMDA] receptor subunit epsilon 1,Homo sapiens
+73,Tyrosinase,Homo sapiens
+12670,Tyrosine-protein kinase receptor FLT3,Homo sapiens
+64,Vitamin D receptor,Homo sapiens
+65,Cytochrome P450 19A1,Homo sapiens
+11480,Sodium channel protein type V alpha subunit,Homo sapiens
+35,Insulin receptor,Homo sapiens
+139,Isoleucyl-tRNA synthetase,Staphylococcus aureus
+276,Phosphodiesterase 4A,Homo sapiens
+105,Serotonin 1d (5-HT1d) receptor,Homo sapiens
+107,Serotonin 2a (5-HT2a) receptor,Homo sapiens
+108,Serotonin 2c (5-HT2c) receptor,Homo sapiens
+109,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,Escherichia coli K-12
+146,Glucagon receptor,Homo sapiens
+11225,Renin,Homo sapiens
+140,Prostanoid FP receptor,Homo sapiens
+174,Estrogen receptor beta,Homo sapiens
+244,Atrial natriuretic peptide receptor A,Homo sapiens
+245,Renal dipeptidase,Homo sapiens
+10752,Inhibitor of nuclear factor kappa B kinase beta subunit,Homo sapiens
+321,DNA (cytosine-5)-methyltransferase 1,Homo sapiens
+48,Mineralocorticoid receptor,Homo sapiens
+143,Prostanoid IP receptor,Homo sapiens
+252,Adenosine A2a receptor,Homo sapiens
+175,Equilibrative nucleoside transporter 1,Homo sapiens
+23,Plasma kallikrein,Homo sapiens
+68,Inosine-5'-monophosphate dehydrogenase 2,Homo sapiens
+240,Retinoic acid receptor gamma,Homo sapiens
+266,Retinoid X receptor gamma,Homo sapiens
+12627,Platelet-derived growth factor receptor alpha,Homo sapiens
+270,Retinoic acid receptor beta,Homo sapiens
+19910,Vitamin K-dependent gamma-carboxylase,Homo sapiens
+10434,Tyrosine-protein kinase SRC,Homo sapiens
+155,Dopamine transporter,Homo sapiens
+193,Coagulation factor IX,Homo sapiens
+129,Mu opioid receptor,Homo sapiens
+91,Catechol O-methyltransferase,Homo sapiens
+93,Acetylcholinesterase,Homo sapiens
+10980,Vascular endothelial growth factor receptor 2,Homo sapiens
+10027,Beta-lactamase AmpC,Escherichia coli K-12
+11261,Somatostatin receptor 3,Homo sapiens
+235,Leukocyte elastase,Homo sapiens
+158,Growth hormone-releasing hormone receptor,Homo sapiens
+32,Cytochrome P450 11A1,Homo sapiens
+25,Glucocorticoid receptor,Homo sapiens
+215,Muscarinic acetylcholine receptor M5,Homo sapiens
+330,"Beta-1,3-glucan synthase",Candida albicans
+228,Human immunodeficiency virus type 1 reverse transcriptase,Human immunodeficiency virus 1
+118702,Ebolavirus,Ebolavirus
+104,Monoamine oxidase B,Homo sapiens
+18077,"1,3-beta-glucan synthase",Candida glabrata
+10140,Tyrosine-protein kinase LCK,Homo sapiens
+10705,Pancreatic alpha-amylase,Homo sapiens
+11180,Bile acid receptor FXR,Homo sapiens
+116,Oxytocin receptor,Homo sapiens
+21,Neuraminidase,Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+22,Influenza virus A matrix protein M2,Influenza A virus (A/Udorn/307/1972(H3N2))
+6,Dihydrofolate reductase,Homo sapiens
+88,Dopamine D1 receptor,Homo sapiens
+178,Dihydrofolate reductase,Pneumocystis jirovecii
+232,Lipoprotein lipase,Homo sapiens
+275,Retinoid X receptor alpha,Homo sapiens
+286,Ceramide glucosyltransferase,Homo sapiens
+13,Beta-lactamase TEM,Escherichia coli
+30008,Ephrin type-A receptor 2,Homo sapiens
+246,Thromboxane A2 receptor,Homo sapiens
+19,Estrogen receptor alpha,Homo sapiens
+164,Sulfonylurea receptor 1,Homo sapiens
+10189,Fatty acid binding protein adipocyte,Homo sapiens
+10200,Macrophage migration inhibitory factor,Homo sapiens
+10552,Voltage-gated potassium channel subunit Kv1.2,Homo sapiens
+18043,Sodium channel protein type IV alpha subunit,Homo sapiens
+18033,Tyrosine-protein kinase YES,Homo sapiens
+1,Maltase-glucoamylase,Homo sapiens
+97,Cyclophilin B,Homo sapiens
+100,Norepinephrine transporter,Homo sapiens
+10373,Prostate specific antigen,Homo sapiens
+10410,P2X purinoceptor 4,Homo sapiens
+10473,C-X-C chemokine receptor type 4,Homo sapiens
+10474,Cyclin T1,Homo sapiens
+10478,Dual specificity mitogen-activated protein kinase kinase 3,Homo sapiens
+10346,Cytidine deaminase,Mus musculus
+10658,Adenosine A2a receptor,Mus musculus
+10664,Diamine oxidase,Homo sapiens
+10101,Acidic fibroblast growth factor,Homo sapiens
+10103,Folate receptor alpha,Homo sapiens
+10539,P2X purinoceptor 6,Rattus norvegicus
+10541,Pyrimidinergic receptor P2Y4,Homo sapiens
+10543,Pyrimidinergic receptor P2Y4,Rattus norvegicus
+10948,Vesicular acetylcholine transporter,Rattus norvegicus
+10949,Leukotriene B4 receptor 1,Rattus norvegicus
+10954,Hepatic lipase,Homo sapiens
+10959,Peroxisome proliferator-activated receptor alpha,Rattus norvegicus
+10006,Cyclin-dependent kinase 4,Mus musculus
+10010,P2X purinoceptor 2,Rattus norvegicus
+11356,"Tryptophan 2,3-dioxygenase",Homo sapiens
+11511,NADH-cytochrome b5 reductase,Homo sapiens
+10839,Serine/threonine-protein kinase PIM1,Homo sapiens
+10849,Tyrosine-protein kinase JAK3,Homo sapiens
+10292,Peripheral-type benzodiazepine receptor,Mus musculus
+10306,Transthyretin,Rattus norvegicus
+10585,Group IIE secretory phospholipase A2,Homo sapiens
+10040,Interleukin-8,Homo sapiens
+10050,Nucleoside diphosphate kinase 2,Homo sapiens
+10076,Vitamin D-binding protein,Rattus norvegicus
+10093,Transforming protein p21/H-Ras-1,Homo sapiens
+10234,cyclic AMP phosphoprotein,Rattus norvegicus
+10256,Carnitine/acylcarnitine translocase,Rattus norvegicus
+10270,Glyoxalase I,Mus musculus
+10733,Beta-glucocerebrosidase,Homo sapiens
+10613,Prostanoid EP1 receptor,Mus musculus
+10618,Serotonin 1e (5-HT1e) receptor,Homo sapiens
+10622,Serotonin 4 (5-HT4) receptor,Mus musculus
+10989,Carbonic anhydrase XIII,Mus musculus
+11000,Purinergic receptor P2Y12,Rattus norvegicus
+11327,Histamine N-methyltransferase,Homo sapiens
+10712,Cerebroside-sulfatase,Homo sapiens
+11027,S-adenosylmethionine synthetase alpha and beta forms,Rattus norvegicus
+11044,Matrix metalloproteinase 16,Homo sapiens
+11053,Phosphatidylcholine-retinol O-acyltransferase,Homo sapiens
+11061,Motilin receptor,Homo sapiens
+11082,MAP kinase-activated protein kinase 2,Homo sapiens
+100818,Serine/threonine-protein kinase Aurora-A,Mus musculus
+11783,Cytochrome P450 7A1,Mus musculus
+10252,Carbonic anhydrase VII,Mus musculus
+11521,Protein-tyrosine phosphatase LC-PTP,Homo sapiens
+11537,cAMP-dependent protein kinase type II-alpha regulatory subunit,Homo sapiens
+11547,Ornithine carbamoyltransferase,Homo sapiens
+11089,Caspase-4,Homo sapiens
+11113,Cytochrome P450 1A1,Homo sapiens
+11126,Subtilisin/kexin type 7,Homo sapiens
+11831,Adenosine A2b receptor,Mus musculus
+12197,Excitatory amino acid transporter 3,Rattus norvegicus
+12200,Sucrase-isomaltase,Rattus norvegicus
+17061,Alpha-1b adrenergic receptor,Mesocricetus auratus
+10778,Death-associated protein kinase 2,Homo sapiens
+10782,Ribosomal protein S6 kinase alpha 4,Homo sapiens
+10794,Porphobilinogen synthase,Homo sapiens
+11174,Guanine deaminase,Homo sapiens
+11090,Caspase-5,Homo sapiens
+12814,Alpha-fetoglobulin,Rattus norvegicus
+10056,DNA-dependent protein kinase,Homo sapiens
+13068,Glucocorticoid receptor,Mus musculus
+12576,PI3-kinase p110-beta subunit,Homo sapiens
+12748,Gamma-amino-N-butyrate transaminase,Rattus norvegicus
+12752,Vitamin D receptor,Rattus norvegicus
+10983,Neurokinin 3 receptor,Rattus norvegicus
+10209,Serotonin 7 (5-HT7) receptor,Homo sapiens
+12480,Thromboxane A2 receptor,Rattus norvegicus
+10034,Bradykinin B2 receptor,Homo sapiens
+10045,Thymidylate synthase,Mus musculus
+12721,Leukocyte adhesion molecule-1,Homo sapiens
+11520,Protein-tyrosine phosphatase 1C,Homo sapiens
+10155,Serum paraoxonase/arylesterase 1,Homo sapiens
+11152,Folylpoly-gamma-glutamate synthetase,Homo sapiens
+11159,Dihydropyrimidine dehydrogenase,Homo sapiens
+11505,Tyrosyl-tRNA synthetase,Homo sapiens
+11512,Estradiol 17-beta-dehydrogenase 1,Homo sapiens
+11185,Carnitine acetylase,Homo sapiens
+19704,Beta tubulin,Leishmania donovani
+10803,Insulin receptor,Mus musculus
+12598,Adenylate cyclase type V,Homo sapiens
+12615,"Glutamate receptor ionotropic, AMPA 4",Homo sapiens
+10869,Histone deacetylase 8,Homo sapiens
+12704,Transthyretin,Homo sapiens
+11086,Melatonin receptor 1C,Gallus gallus
+10648,Muscarinic acetylcholine receptor M2,Mus musculus
+10666,Acetylcholinesterase,Mus musculus
+10667,Acetylcholinesterase,Rattus norvegicus
+10678,Sialidase 2,Homo sapiens
+10694,Aryl hydrocarbon receptor,Homo sapiens
+11968,Prolyl endopeptidase,Homo sapiens
+11607,4-hydroxyphenylpyruvate dioxygenase,Sus scrofa
+12809,Plasminogen,Rattus norvegicus
+13023,Adenosine deaminase,Mus musculus
+13024,Somatostatin receptor 2,Mus musculus
+13028,Cellular retinoic acid-binding protein I,Mus musculus
+11934,Calcium-independent phospholipase A2,Homo sapiens
+12230,"Beta-1,4-galactosyltransferase 1",Bos taurus
+11696,Cholesterol esterase,Homo sapiens
+255,C-8 sterol isomerase,Saccharomyces cerevisiae S288c
+11835,Arachidonate 12-lipoxygenase,Mus musculus
+11281,Metabotropic glutamate receptor 8,Homo sapiens
+11289,Anandamide amidohydrolase,Rattus norvegicus
+10809,Sphingosine 1-phosphate receptor Edg-6,Homo sapiens
+10811,Rho-associated protein kinase 1,Homo sapiens
+11785,Tyrosine-protein kinase HCK,Homo sapiens
+11787,Isoleucyl-tRNA synthetase,Homo sapiens
+10763,Cytochrome P450 11B2,Rattus norvegicus
+10765,Carnitine palmitoyltransferase 2,Homo sapiens
+10767,Liver glycogen phosphorylase,Rattus norvegicus
+12209,Carbonic anhydrase XII,Homo sapiens
+12088,Leukocyte common antigen,Homo sapiens
+12236,HMG-CoA reductase,Rattus norvegicus
+12451,Trehalase,Rattus norvegicus
+19689,Lysophosphatidic acid receptor Edg-7,Homo sapiens
+11531,Nuclear factor NF-kappa-B p105 subunit,Homo sapiens
+10697,Serum albumin,Homo sapiens
+10709,Monoamine oxidase A,Bos taurus
+12075,Aminopeptidase N,Rattus norvegicus
+12079,Alanine aminotransferase,Rattus norvegicus
+11299,Histamine H3 receptor,Mus musculus
+12893,ATP-citrate synthase,Mus musculus
+12897,"Amine oxidase, copper containing",Bos taurus
+10300,Retinoic acid receptor beta,Mus musculus
+11941,PI4-kinase beta subunit,Homo sapiens
+12644,NAD-dependent histone deacetylase SIR2,Saccharomyces cerevisiae S288c
+11556,Ghrelin receptor,Rattus norvegicus
+11942,Urokinase-type plasminogen activator,Homo sapiens
+12426,"Arachidonate 15-lipoxygenase, type II",Rattus norvegicus
+12836,Glutamate [NMDA] receptor subunit epsilon 4,Homo sapiens
+12854,Adenosine A2b receptor,Rattus norvegicus
+10886,Progesterone receptor,Rattus norvegicus
+10893,Tubulin beta-3 chain,Homo sapiens
+10901,Protein kinase C iota,Homo sapiens
+10906,Tyrosine-protein kinase SYK,Homo sapiens
+17000,Adenosine transporter 1,Trypanosoma brucei
+17086,Adenosine A2a receptor,Cavia porcellus
+10977,Lysosomal alpha-glucosidase,Homo sapiens
+11226,Renin,Mus musculus
+12703,Tryptase beta-1,Homo sapiens
+12706,"Thymidine kinase, cytosolic",Mus musculus
+12712,Serotonin 5b (5-HT5b) receptor,Rattus norvegicus
+12512,Adenosine A1 receptor,Rattus norvegicus
+12543,Aldose reductase,Rattus norvegicus
+17054,Acyl coenzyme A:cholesterol acyltransferase,Oryctolagus cuniculus
+12566,Muscarinic acetylcholine receptor M3,Rattus norvegicus
+12568,Angiotensin-converting enzyme,Rattus norvegicus
+12620,Dihydrofolate reductase type 1,Escherichia coli
+11736,Adenosine A2a receptor,Rattus norvegicus
+11635,Protein kinase C alpha,Homo sapiens
+10804,HLA class I histocompatibility antigen A-3,Homo sapiens
+10844,Tyrosine-protein kinase CSK,Homo sapiens
+11160,Dual specificity protein phosphatase 3,Homo sapiens
+11408,c-Jun N-terminal kinase 3,Homo sapiens
+11410,Ribose-phosphate pyrophosphokinase I,Homo sapiens
+11422,Hexokinase type II,Homo sapiens
+17121,Neurokinin 2 receptor,Cavia porcellus
+17127,Vitamin D3 receptor,Sus scrofa domesticus
+10575,Cyclooxygenase-1,Mus musculus
+10591,Phosphodiesterase 1B,Bos taurus
+10594,Phosphodiesterase 2A,Homo sapiens
+10993,Creatine kinase M,Homo sapiens
+12717,Neuronal acetylcholine receptor subunit beta-4,Rattus norvegicus
+12719,Vasopressin V1b receptor,Rattus norvegicus
+12795,Adenosylhomocysteinase,Homo sapiens
+12801,Insulin-like growth factor binding protein 5,Homo sapiens
+17130,Serine-threonine protein phosphatase 2A regulatory subunit,Gallus gallus
+12973,DNA topoisomerase II,Drosophila melanogaster
+17134,Muscarinic acetylcholine receptor M1,Bos taurus
+11759,Glutamate receptor ionotropic kainate 5,Homo sapiens
+12364,Beta-galactosidase,Rattus norvegicus
+12384,Epididymis-specific alpha-mannosidase,Homo sapiens
+12992,Voltage-gated potassium channel subunit Kv7.3,Homo sapiens
+11382,Hexokinase type I,Homo sapiens
+11379,Macrophage-stimulating protein receptor,Homo sapiens
+11242,Focal adhesion kinase 1,Homo sapiens
+11249,Serotonin 4 (5-HT4) receptor,Sus scrofa
+10995,Aflatoxin B1 aldehyde reductase,Rattus norvegicus
+10999,Pancreatic alpha-amylase,Rattus norvegicus
+11441,Receptor-type tyrosine-protein phosphatase beta,Homo sapiens
+12443,Histone deacetylase 7,Homo sapiens
+12448,Phosphodiesterase 11A,Homo sapiens
+11058,Metabotropic glutamate receptor 8,Rattus norvegicus
+11538,Excitatory amino acid transporter 3,Homo sapiens
+12788,Estrogen receptor alpha,Rattus norvegicus
+12802,Beta-lactamase,Enterobacter cloacae
+17050,Beta-glucuronidase,Homo sapiens
+17051,Alkaline phosphatase tissue-nonspecific,Rattus norvegicus
+12109,Protein-glutamine gamma-glutamyltransferase,Homo sapiens
+11966,Phospholipase D2,Homo sapiens
+11054,Metabotropic glutamate receptor 4,Homo sapiens
+12029,Acrosin,Homo sapiens
+11926,Fibroblast growth factor receptor 3,Homo sapiens
+12741,ATP-citrate synthase,Rattus norvegicus
+10574,Platelet-derived growth factor receptor beta,Mus musculus
+11760,Sodium channel protein type VIII alpha subunit,Rattus norvegicus
+12642,Glutathione reductase,Homo sapiens
+12232,Monoamine oxidase B,Bos taurus
+11872,Mannose-6-phosphate isomerase,Homo sapiens
+11227,Ectonucleoside triphosphate diphosphohydrolase 1,Bos taurus
+11228,Ectonucleoside triphosphate diphosphohydrolase 1,Rattus norvegicus
+11234,Histone deacetylase 5,Mus musculus
+11256,Liver carboxylesterase 3,Rattus norvegicus
+12018,Transient receptor potential cation channel subfamily V member 4,Rattus norvegicus
+12037,myosin light chain kinase 2,Homo sapiens
+12909,Ileal bile acid transporter,Homo sapiens
+13030,Cyclophilin A,Rattus norvegicus
+11096,Sodium/hydrogen exchanger 1,Homo sapiens
+12920,Acyl coenzyme A:cholesterol acyltransferase 1,Homo sapiens
+11891,Metabotropic glutamate receptor 4,Rattus norvegicus
+11492,GABA receptor gamma-1 subunit,Rattus norvegicus
+13053,Estradiol 17-beta-dehydrogenase 2,Homo sapiens
+11718,Retinoic acid receptor alpha,Mus musculus
+10466,Cholecystokinin A receptor,Mus musculus
+10997,Dopamine transporter,Mus musculus
+12514,Alpha-1a adrenergic receptor,Rattus norvegicus
+12214,Tyrosine-protein kinase ZAP-70,Homo sapiens
+17070,"Inositol 1,4,5-trisphosphate receptor type 1",Rattus norvegicus
+11269,LXR-alpha,Homo sapiens
+11899,DNA topoisomerase I,Mus musculus
+11902,Nerve growth factor receptor Trk-A,Homo sapiens
+11949,P2X purinoceptor 4,Rattus norvegicus
+11287,Coagulation factor XI,Homo sapiens
+11288,Coagulation factor XII,Homo sapiens
+10368,Casein kinase I delta,Homo sapiens
+17056,Voltage-gated L-type calcium channel alpha-1C subunit,Oryctolagus cuniculus
+19649,Alanine racemase,Escherichia coli K-12
+10919,Tyrosine-protein kinase JAK1,Homo sapiens
+12198,Serotonin transporter,Rattus norvegicus
+11028,Aminopeptidase B,Mus musculus
+11033,S-adenosylmethionine synthetase gamma form,Rattus norvegicus
+11460,Ornithine decarboxylase,Mus musculus
+11400,Serine/threonine-protein kinase mTOR,Homo sapiens
+11702,1-acylglycerol-3-phosphate O-acyltransferase alpha,Mus musculus
+10420,Protein phosphatase 2C beta,Homo sapiens
+10872,Peroxisome proliferator-activated receptor alpha,Canis lupus familiaris
+11017,Glycogen synthase kinase-3 alpha,Homo sapiens
+11036,Metabotropic glutamate receptor 2,Rattus norvegicus
+12811,Alpha-mannosidase 2C1,Rattus norvegicus
+11524,Cholecystokinin B receptor,Mus musculus
+12458,Acyl coenzyme A:cholesterol acyltransferase 2,Rattus norvegicus
+12464,Human rhinovirus A protease,Human rhinovirus sp.
+12471,Mu opioid receptor,Mus musculus
+12516,Transient receptor potential cation channel subfamily V member 2,Rattus norvegicus
+12737,6-O-methylguanine-DNA methyltransferase,Homo sapiens
+11680,Vasopressin V1a receptor,Rattus norvegicus
+12824,Cholecystokinin A receptor,Rattus norvegicus
+12076,Muscarinic acetylcholine receptor M2,Rattus norvegicus
+10862,Adenylate cyclase type V,Rattus norvegicus
+12742,Alpha-1d adrenergic receptor,Rattus norvegicus
+10116,Histamine H2 receptor,Cavia porcellus
+10139,Carbonic anhydrase III,Homo sapiens
+10142,Melanocortin receptor 4,Homo sapiens
+12388,Hematopoietic cell protein-tyrosine phosphatase 70Z-PEP,Homo sapiens
+12434,Folylpoly-gamma-glutamate synthetase,Mus musculus
+11018,cGMP-dependent protein kinase 2,Homo sapiens
+11047,Dual specificity mitogen-activated protein kinase kinase 4,Homo sapiens
+11821,Brain adenylate cyclase 1,Homo sapiens
+10458,Dihydrofolate reductase,Lactobacillus casei
+12054,Arachidonate 15-lipoxygenase,Homo sapiens
+11490,11-beta-hydroxysteroid dehydrogenase 2,Rattus norvegicus
+11539,AMP deaminase 3,Homo sapiens
+12622,Telomerase reverse transcriptase,Homo sapiens
+10207,cAMP-dependent protein kinase beta-1 catalytic subunit,Homo sapiens
+12518,Glutamate receptor ionotropic kainate 1,Rattus norvegicus
+12567,Cytochrome P450 1A1,Rattus norvegicus
+12003,Acetyl-coenzyme A synthetase,Mus musculus
+12005,Voltage-gated potassium channel subunit Kv7.5,Homo sapiens
+12008,Fucosyltransferase 10,Homo sapiens
+12347,Cytochrome P450 11B1,Bos taurus
+17091,Aldehyde dehydrogenase 1A1,Rattus norvegicus
+17093,Potassium-transporting ATPase alpha chain 2,Homo sapiens
+17096,Purine nucleoside phosphorylase,Bos taurus
+10880,Protein kinase C gamma,Homo sapiens
+11081,MAP kinase p38 delta,Homo sapiens
+13061,Protein-tyrosine phosphatase 1B,Homo sapiens
+12485,Muscarinic acetylcholine receptor M4,Rattus norvegicus
+11770,Gamma-glutamyltranspeptidase 1,Rattus norvegicus
+17047,Cyclooxygenase-1,Ovis aries
+11534,Cathepsin S,Homo sapiens
+11562,Sphingosine 1-phosphate receptor Edg-5,Homo sapiens
+11043,Matrix metalloproteinase 15,Homo sapiens
+11046,Dual specificity mitogen-activated protein kinase kinase 2,Homo sapiens
+12159,Adenosine deaminase,Bos taurus
+12163,Dopamine D1 receptor,Bos taurus
+10938,Tyrosine-protein kinase JAK2,Homo sapiens
+10940,Phosphofructokinase platelet type,Homo sapiens
+12160,Alpha-glucosidase,Bos taurus
+13031,Cyclooxygenase-2,Rattus norvegicus
+17140,Arachidonate 5-lipoxygenase,Bos taurus
+17144,Adenosine kinase,Toxoplasma gondii
+10178,Voltage-gated potassium channel subunit Kv7.2,Mus musculus
+17071,Cholesterol esterase,Bos taurus
+11581,Dihydroorotate dehydrogenase,Mus musculus
+12239,Monoamine oxidase B,Rattus norvegicus
+12243,Angiotensin-converting enzyme,Mus musculus
+12244,Estrogen receptor beta,Mus musculus
+12247,Protein kinase C delta,Homo sapiens
+11908,Serine/threonine-protein kinase PAK 3,Homo sapiens
+208,Elastase 1,Homo sapiens
+12166,Arachidonate 5-lipoxygenase,Rattus norvegicus
+12030,Multidrug resistance-associated protein 1,Homo sapiens
+11864,Serotonin 2c (5-HT2c) receptor,Mus musculus
+12714,Sodium/potassium-transporting ATPase alpha-1 chain,Rattus norvegicus
+11910,Phosphodiesterase 7A,Homo sapiens
+11913,Choline transporter,Mus musculus
+19609,GABA receptor alpha-1 subunit,Rattus norvegicus
+12725,Matriptase,Homo sapiens
+12739,Cytochrome P450 3A5,Homo sapiens
+12135,Estrogen receptor beta,Rattus norvegicus
+10907,Serine/threonine-protein kinase PLK1,Homo sapiens
+10186,Carbonic anhydrase VI,Homo sapiens
+12757,GABA receptor alpha-3 subunit,Homo sapiens
+17063,Neurotensin receptor 1,Rattus norvegicus
+10857,Hypoxia-inducible factor prolyl hydroxylase 1,Homo sapiens
+10496,Cathepsin K,Rattus norvegicus
+10501,Cannabinoid CB1 receptor,Mus musculus
+10528,Mu opioid receptor,Bos taurus
+10973,Protein kinase C beta,Mus musculus
+10725,Tyrosine aminotransferase,Homo sapiens
+11636,Protein kinase C beta,Homo sapiens
+11652,Sialidase 3,Homo sapiens
+11670,GABA receptor alpha-5 subunit,Rattus norvegicus
+11677,"Nitric-oxide synthase, brain",Rattus norvegicus
+12127,Monoamine oxidase B,Mus musculus
+12829,Cyclin-dependent kinase 7,Homo sapiens
+12831,Androgen Receptor,Mus musculus
+13082,Cytochrome P450 2D3,Rattus norvegicus
+12589,Sodium/hydrogen exchanger 5,Homo sapiens
+10495,Cathepsin K,Homo sapiens
+11596,Glycine transporter 2,Homo sapiens
+11598,Phosphodiesterase 3A,Sus scrofa
+10856,"Myosin light chain kinase, smooth muscle",Gallus gallus
+12787,Estrogen receptor alpha,Mus musculus
+10274,Gonadotropin-releasing hormone receptor,Rattus norvegicus
+11184,Neuronal acetylcholine receptor subunit alpha-3,Homo sapiens
+11088,Intercellular adhesion molecule-1,Homo sapiens
+11104,Dopamine D1 receptor,Mus musculus
+11109,Matrix metalloproteinase 3,Homo sapiens
+12832,Androgen Receptor,Rattus norvegicus
+11558,Retinoid X receptor alpha,Mus musculus
+10827,Trehalase,Homo sapiens
+11722,Cathepsin E,Homo sapiens
+11102,Dihydroorotase,Homo sapiens
+11105,MAP kinase-activated protein kinase 5,Homo sapiens
+19684,Acetylcholine receptor protein alpha chain,Torpedo californica
+11802,Tyrosine-protein kinase ABL,Mus musculus
+17041,Plasma retinol-binding protein,Homo sapiens
+11663,Poly [ADP-ribose] polymerase-1,Homo sapiens
+11723,Thymidine phosphorylase,Homo sapiens
+11729,Basic fibroblast growth factor,Homo sapiens
+11869,Melanocortin receptor 1,Homo sapiens
+20137,Serine-protein kinase ATM,Homo sapiens
+19904,Calcitonin gene-related peptide type 1 receptor,Homo sapiens
+19903,Neurokinin 3 receptor,Cavia porcellus
+18000,Beta-2 adrenergic receptor,Sus scrofa
+20032,Neuropeptide Y receptor type 5,Mus musculus
+10818,Voltage-gated L-type calcium channel alpha-1S subunit,Homo sapiens
+10258,T-cell protein-tyrosine phosphatase,Homo sapiens
+12074,S-adenosylmethionine decarboxylase 1,Rattus norvegicus
+14037,Dopamine D2 receptor,Rattus norvegicus
+11107,Dipeptidyl peptidase IV,Sus scrofa
+11115,Creatine transporter,Rattus norvegicus
+11320,Squalene synthetase,Rattus norvegicus
+10582,Cytosolic phospholipase A2,Homo sapiens
+10032,Bcl2-antagonist of cell death (BAD),Homo sapiens
+20095,Hexokinase type IV,Homo sapiens
+19655,L-lactate dehydrogenase B chain,Sus scrofa
+19657,Penicillin-binding protein 2,Staphylococcus aureus
+100202,Chitin synthase 1,Saccharomyces cerevisiae S288c
+30002,CaM kinase II gamma,Homo sapiens
+30000,Adaptor-associated kinase,Homo sapiens
+30001,MAP/microtubule affinity-regulating kinase 2,Homo sapiens
+30051,ULK3 kinase,Mus musculus
+100425,Trace amine-associated receptor 1,Rattus norvegicus
+30016,Tyrosine-protein kinase BMX,Homo sapiens
+10498,Cathepsin L,Homo sapiens
+11056,Metabotropic glutamate receptor 6,Rattus norvegicus
+11482,Thyroxine-binding globulin,Homo sapiens
+11188,Cytochrome P450 51,Homo sapiens
+14048,Dihydrofolate reductase,Enterobacter aerogenes
+10149,UDP-3-O-acyl-GlcNAc deacetylase,Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG12228)
+10768,Brain glycogen phosphorylase,Homo sapiens
+10764,Carnitine palmitoyltransferase 1A,Rattus norvegicus
+10766,Cytochrome P450 19A1,Rattus norvegicus
+10599,Phosphodiesterase 4B,Homo sapiens
+10605,Phosphodiesterase 6D,Homo sapiens
+10899,Pyruvate dehydrogenase kinase isoform 2,Homo sapiens
+10903,Protein kinase C mu,Homo sapiens
+11523,Protein-tyrosine phosphatase 2C,Homo sapiens
+11816,Beta-glucosidase cytosolic,Homo sapiens
+12606,Sodium channel protein type V alpha subunit,Rattus norvegicus
+11154,Matrix metalloproteinase 14,Homo sapiens
+12051,Aldehyde reductase,Rattus norvegicus
+11811,C-C chemokine receptor type 1,Mus musculus
+10529,Mu opioid receptor,Rattus norvegicus
+12688,Serotonin 2b (5-HT2b) receptor,Rattus norvegicus
+10426,Thyrotropin-releasing hormone receptor 2,Rattus norvegicus
+12950,Metabotropic glutamate receptor 7,Rattus norvegicus
+11213,Heat shock protein HSP 90-alpha,Homo sapiens
+20083,Hexokinase type IV,Rattus norvegicus
+20091,Dipeptidyl peptidase IV,Mus musculus
+20092,Sodium/glucose cotransporter 2,Homo sapiens
+20007,Mixed lineage kinase 7,Homo sapiens
+10950,Sphingosine 1-phosphate receptor Edg-3,Homo sapiens
+12684,Pyruvate dehydrogenase kinase isoform 3,Homo sapiens
+10759,DNA polymerase III,Bacillus subtilis (strain 168)
+11413,Leukocyte proteinase 3,Homo sapiens
+11416,Glutathione S-transferase Pi,Homo sapiens
+11274,Beta-mannosidase,Homo sapiens
+11842,Tyrosine-protein kinase Lyn,Homo sapiens
+11843,Ribosomal protein S6 kinase alpha 2,Homo sapiens
+11862,11-beta-hydroxysteroid dehydrogenase 1,Mus musculus
+11395,Phosphodiesterase 3B,Homo sapiens
+10542,Leukotriene B4 receptor 1,Homo sapiens
+12923,Carbonic anhydrase XIII,Homo sapiens
+19699,Acetylcholine receptor protein delta chain,Torpedo californica
+12132,Thyroid hormone receptor beta-1,Rattus norvegicus
+12665,Protein kinase C theta,Homo sapiens
+11684,Nischarin,Homo sapiens
+20009,Carbonic anhydrase,Methanobacterium thermoautotrophicum
+20099,Carbonic anhydrase,Methanosarcina thermophila
+20171,Serine/threonine-protein kinase Aurora-C,Homo sapiens
+30004,Serine/threonine-protein kinase 16,Homo sapiens
+17073,Neurokinin 1 receptor,Cavia porcellus
+17074,Histamine H1 receptor,Cavia porcellus
+17076,Vasopressin V2 receptor,Sus scrofa
+17080,Angiotensin II type 1a (AT-1a) receptor,Oryctolagus cuniculus
+17081,Endothelin receptor ET-B,Sus scrofa
+11569,Ephrin type-B receptor 2,Homo sapiens
+12327,Pepsin A,Homo sapiens
+11658,Alpha enolase,Homo sapiens
+12525,Ectonucleoside triphosphate diphosphohydrolase 2,Rattus norvegicus
+12638,Progesterone receptor,Gallus gallus
+12643,Testis-specific androgen-binding protein,Homo sapiens
+12013,Caspase-6,Homo sapiens
+12019,Neuronal acetylcholine receptor protein alpha-4 subunit,Rattus norvegicus
+12021,Histone deacetylase 11,Homo sapiens
+10081,Alpha-chymotrypsin,Bos taurus
+100674,5-lipoxygenase,Solanum tuberosum
+100675,Tyrosinase,Agaricus bisporus
+100799,Monoglyceride lipase,Rattus norvegicus
+100803,"Oligopeptide transporter, kidney isoform",Rattus norvegicus
+100804,Beta-lactamase L1,Stenotrophomonas maltophilia
+100805,Dihydrofolate reductase,Cryptosporidium hominis
+11111,Cyclooxygenase-2,Bos taurus
+17025,Phosphodiesterase 4A,Sus scrofa
+17028,Cytochrome P450 2B1,Rattus norvegicus
+103167,Transient receptor potential cation channel subfamily M member 8,Homo sapiens
+12469,Vascular endothelial growth factor receptor 2,Mus musculus
+11120,Squalene synthetase,Homo sapiens
+10273,Type-1B angiotensin II receptor,Rattus norvegicus
+11836,Tyrosine-protein kinase BLK,Mus musculus
+20057,Fatty acid binding protein muscle,Homo sapiens
+20067,Human T-cell leukemia virus type I protease,Human T-cell leukemia virus 1 (strain Japan ATK-1 subtype A) (HTLV-1)
+20088,Heme oxygenase 2,Rattus norvegicus
+20105,Cathepsin K,Oryctolagus cuniculus
+10330,Acetyl-CoA carboxylase 1,Homo sapiens
+19665,Glutamate racemase,Lactobacillus fermentum
+10364,Alpha-2b adrenergic receptor,Rattus norvegicus
+12594,Cytochrome P450 1A2,Homo sapiens
+19623,Interleukin-1 receptor-associated kinase 1,Homo sapiens
+12453,Monoamine oxidase A,Rattus norvegicus
+13010,Formyl peptide receptor 1,Homo sapiens
+12171,Adenosine A3 receptor,Rattus norvegicus
+11749,Neuronal acetylcholine receptor protein alpha-7 subunit,Mus musculus
+12100,Methionyl-tRNA synthetase,Escherichia coli K-12
+12104,Glucocorticoid receptor,Rattus norvegicus
+12128,Neprilysin,Rattus norvegicus
+10627,Serotonin 6 (5-HT6) receptor,Homo sapiens
+10628,Serotonin 6 (5-HT6) receptor,Rattus norvegicus
+11035,Carbonic anhydrase IV,Bos taurus
+12806,Angiotensin II type 1a (AT-1a) receptor,Bos taurus
+10738,Neuraminidase,Influenza B virus (strain B/Lee/1940)
+10743,Cytochrome P450 4F2,Homo sapiens
+12500,Small conductance calcium-activated potassium channel protein 3,Homo sapiens
+118703,Coronaviridae,Coronaviridae
+10600,Phosphodiesterase 4B,Rattus norvegicus
+12758,GABA receptor alpha-3 subunit,Rattus norvegicus
+11632,Carboxylesterase,Sus scrofa
+11639,MAP kinase ERK1,Homo sapiens
+11930,Tubulin beta chain,Bos taurus
+12911,Cytochrome P450 2C9,Homo sapiens
+13077,Dopamine transporter,Rattus norvegicus
+10559,Sodium channel protein type II alpha subunit,Rattus norvegicus
+11912,Pregnane X receptor,Homo sapiens
+11919,Alkaline phosphatase placental-like,Homo sapiens
+11924,Butyrylcholinesterase,Rattus norvegicus
+11938,6-phosphogluconate dehydrogenase,Homo sapiens
+10372,Glutathione S-transferase A1,Homo sapiens
+11138,Human herpesvirus 5 DNA polymerase,Human cytomegalovirus (strain AD169) (HHV-5) (Human herpesvirus 5)
+12298,Thymidine kinase,Human herpesvirus 2
+12172,Voltage-gated calcium channel alpha2/delta subunit 1,Rattus norvegicus
+10177,Phosphodiesterase 1A,Homo sapiens
+10062,Methionine aminopeptidase,Escherichia coli K-12
+10624,Serotonin 5a (5-HT5a) receptor,Homo sapiens
+10133,Estrogen-related receptor alpha,Homo sapiens
+20004,Beta-mannosidase,Rattus norvegicus
+20126,Neurokinin 2 receptor,Oryctolagus cuniculus
+20066,Recombinase A,Escherichia coli K-12
+20114,Alpha-glucosidase,Aspergillus niger
+20143,"Amine oxidase, copper containing",Homo sapiens
+10727,Beta-1 adrenergic receptor,Mus musculus
+12813,Glutamate [NMDA] receptor subunit epsilon 2,Mus musculus
+17031,Malate dehydrogenase mitochondrial,Sus scrofa
+17005,Serotonin 2a (5-HT2a) receptor,Bos taurus
+17010,"Mannosidase 2, alpha B1",Rattus norvegicus
+17015,Glutamate (NMDA) receptor subunit zeta 1,Sus scrofa
+17113,Vitamin D receptor,Bos taurus
+12408,Dipeptidyl peptidase I,Mus musculus
+17049,Progesterone receptor,Oryctolagus cuniculus
+10577,Serotonin 1b (5-HT1b) receptor,Rattus norvegicus
+19636,Human immunodeficiency virus type 2 integrase,Human immunodeficiency virus 2
+11039,"Nitric oxide synthase, inducible",Mus musculus
+10298,Sigma opioid receptor,Mus musculus
+11031,P-glycoprotein 1,Mus musculus
+12067,Caspase-7,Homo sapiens
+12456,Human immunodeficiency virus type 1 integrase,Human immunodeficiency virus 1
+12457,Vesicular glutamate transporter 3,Rattus norvegicus
+10548,C-C chemokine receptor type 3,Homo sapiens
+10584,Phospholipase A2 group IIA,Homo sapiens
+10588,Plasminogen activator inhibitor-1,Homo sapiens
+10593,Phosphodiesterase 2A,Bos taurus
+10602,Phosphodiesterase 5A,Bos taurus
+10604,Phosphodiesterase 6C,Bos taurus
+12907,Chitin synthase 1,Candida albicans
+12938,Carboxypeptidase A1,Bos taurus
+20145,Beta-galactosidase,Bos taurus
+100586,Beta-galactosidase,Sinorhizobium meliloti
+100588,Dihydroorotate dehydrogenase,Plasmodium falciparum
+100610,11-beta-hydroxysteroid dehydrogenase 2,Mus musculus
+100611,Cytochrome P450 2J2,Homo sapiens
+100613,Proteasome Macropain subunit,Homo sapiens
+100819,Casein kinase I homolog 1,Saccharomyces cerevisiae S288c
+17117,Beta-lactamase class C,Enterobacter cloacae
+17118,Glycine receptor alpha-4 chain,Mus musculus
+17120,Cholecystokinin A receptor,Cavia porcellus
+12546,"Glutamate receptor ionotropic, AMPA 2",Rattus norvegicus
+12012,"Glutamate receptor ionotropic, AMPA 3",Rattus norvegicus
+11010,Mineralocorticoid receptor,Rattus norvegicus
+13067,Cholecystokinin B receptor,Rattus norvegicus
+12605,Sodium channel protein type IV alpha subunit,Rattus norvegicus
+11063,Carbonic anhydrase XIV,Homo sapiens
+12761,Ornithine decarboxylase,Rattus norvegicus
+19672,Acidic alpha-glucosidase,Rattus norvegicus
+10138,LDL-associated phospholipase A2,Homo sapiens
+12413,Vascular endothelial growth factor receptor 1,Mus musculus
+12949,Cytochrome P450 17A1,Homo sapiens
+11232,Histone deacetylase 4,Homo sapiens
+11243,Muscle glycogen phosphorylase,Homo sapiens
+12915,Inhibitor of nuclear factor kappa B kinase epsilon subunit,Homo sapiens
+12919,Dual specificity mitogen-activated protein kinase kinase 7,Homo sapiens
+11294,Steryl-sulfatase,Rattus norvegicus
+20035,Phosphodiesterase 9A,Homo sapiens
+20052,Heat shock protein HSP 90 (HSP82),Saccharomyces cerevisiae S288c
+100823,Histone deacetylase HD1B,Zea mays
+100824,Serine/threonine-protein kinase NIM1,Homo sapiens
+100591,Alpha-L-fucosidase 1,Bos taurus
+12694,Tyrosine-protein kinase TYK2,Homo sapiens
+12445,Human immunodeficiency virus type 1 Gag protein,Human immunodeficiency virus 1
+12447,"Serine/threonine protein phosphatase 2A, 65 kDa regulatory subunit A, alpha isoform",Mus musculus
+19600,Gamma-hydroxybutyrate receptor,Rattus norvegicus
+11275,Malate dehydrogenase cytoplasmic,Homo sapiens
+13064,GABA receptor rho-1 subunit,Homo sapiens
+10451,Moloney murine leukaemia virus Pol protein,Moloney murine leukemia virus isolate Shinnick
+10459,Dihydrofolate reductase,Neisseria gonorrhoeae
+17055,Aldose reductase,Oryctolagus cuniculus
+11037,"Nitric-oxide synthase, brain",Homo sapiens
+10502,Cannabinoid CB1 receptor,Rattus norvegicus
+10517,Cholesteryl ester transfer protein,Homo sapiens
+11295,Histamine H1 receptor,Bos taurus
+11125,Voltage-gated potassium channel subunit Kv7.4,Homo sapiens
+10878,Protein kinase C epsilon,Homo sapiens
+12759,S-adenosylmethionine decarboxylase 1,Mus musculus
+18057,DNA topoisomerase II alpha,Mus musculus
+11409,Dual specificity mitogen-activated protein kinase kinase 1,Homo sapiens
+10185,Adenosine kinase,Homo sapiens
+12952,Carbonic anhydrase IX,Homo sapiens
+10429,"Glutamate receptor ionotropic, AMPA 3",Homo sapiens
+10625,Serotonin 5a (5-HT5a) receptor,Mus musculus
+12050,Sigma opioid receptor,Rattus norvegicus
+19640,Integrin alpha M,Mus musculus
+12635,Protein kinase C gamma,Rattus norvegicus
+11762,Glutamate receptor ionotropic kainate 2,Rattus norvegicus
+17094,Type III iodothyronine deiodinase,Homo sapiens
+10526,Delta opioid receptor,Rattus norvegicus
+10527,Kappa opioid receptor,Rattus norvegicus
+11617,Protein kinase C eta,Homo sapiens
+12866,UDP-glucuronosyltransferase 1A4,Homo sapiens
+13055,Quinone reductase 1),Homo sapiens
+10044,Casein kinase II alpha,Homo sapiens
+10790,Inosine-5'-monophosphate dehydrogenase,Escherichia coli K-12
+12672,Hexokinase type III,Rattus norvegicus
+17131,Neutral alpha-glucosidase C,Mus musculus
+10985,Neuromedin B receptor,Homo sapiens
+12853,Alpha-1a adrenergic receptor,Oryctolagus cuniculus
+100108,RAS guanyl releasing protein 3,Homo sapiens
+12161,Xanthine dehydrogenase,Bos taurus
+10266,Fibroblast growth factor receptor 1,Homo sapiens
+17125,Beta-lactamase TEM,Enterobacter cloacae
+17033,Tyrosine-protein kinase SRC,Gallus gallus
+17036,Isoleucyl-tRNA synthetase,Escherichia coli K-12
+17039,Tubulin alpha chain,Sus scrofa
+12179,Growth factor receptor-bound protein 2,Homo sapiens
+20031,Serotonin 3a (5-HT3a) receptor,Cavia porcellus
+11940,PI4-kinase alpha subunit,Homo sapiens
+20081,Galectin-3,Mus musculus
+20132,Fatty acid binding protein epidermal,Homo sapiens
+12921,Monoamine oxidase A,Mus musculus
+12378,Glutamate receptor ionotropic kainate 2,Homo sapiens
+11223,Glutamate receptor ionotropic kainate 3,Homo sapiens
+11950,Phospholipase A2 group IIA,Rattus norvegicus
+11134,Arachidonate 12-lipoxygenase,Homo sapiens
+11806,Adenosine A1 receptor,Mus musculus
+100594,Autotaxin,Homo sapiens
+100596,Farnesyl pyrophosphate synthase,Leishmania donovani
+100197,Alpha-galactosidase,Escherichia coli K-12
+100233,Nucleoside transporter 2,Trypanosoma brucei brucei
+100241,Prion protein,Mus musculus
+100341,GABA transporter 4,Mus musculus
+100180,Excitatory amino acid transporter 4,Rattus norvegicus
+100122,Cytochrome P450 2A2,Rattus norvegicus
+11473,ADAM17,Homo sapiens
+10283,Beta-2 adrenergic receptor,Mus musculus
+10304,Dopamine D1 receptor,Rattus norvegicus
+10329,Prostanoid EP3 receptor,Homo sapiens
+12155,Cystinyl aminopeptidase,Rattus norvegicus
+11446,Betaine transporter,Homo sapiens
+11451,Hepatocyte growth factor receptor,Homo sapiens
+10058,Melanocortin receptor 4,Mus musculus
+12865,Glutamate (NMDA) receptor subunit zeta 1,Rattus norvegicus
+10163,Cytochrome P450 2C8,Homo sapiens
+10791,Thymidine phosphorylase,Escherichia coli K-12
+12879,Serum albumin,Bos taurus
+12896,Carbonic anhydrase IV,Homo sapiens
+11827,Vascular cell adhesion protein 1,Homo sapiens
+11848,Angiotensin-converting enzyme 2,Homo sapiens
+11866,Leukotriene A4 hydrolase,Mus musculus
+11250,Phosphodiesterase 6A,Bos taurus
+12900,Glutamate receptor ionotropic kainate 3,Rattus norvegicus
+20134,Cytochrome P450 24A1,Rattus norvegicus
+100067,Bacterial leucyl aminopeptidase,Vibrio proteolyticus
+11254,Estrogen-related receptor beta,Homo sapiens
+17052,Beta-2 adrenergic receptor,Rattus norvegicus
+11455,Glutamate decarboxylase 67 kDa isoform,Rattus norvegicus
+11290,Histamine H4 receptor,Homo sapiens
+11815,Beta-glucosidase,Homo sapiens
+10514,Voltage-gated L-type calcium channel alpha-1C subunit,Rattus norvegicus
+11359,Phosphodiesterase 4D,Homo sapiens
+10927,Urotensin II receptor,Homo sapiens
+10930,Vasopressin V2 receptor,Rattus norvegicus
+10441,Neprilysin,Oryctolagus cuniculus
+10443,Trypsin I,Bos taurus
+12732,Adenylate kinase 1,Rattus norvegicus
+226,Beta-3 adrenergic receptor,Homo sapiens
